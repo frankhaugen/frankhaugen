@@ -3,6 +3,7 @@
   <Namespace>NuGetUtils.Extensions</Namespace>
   <Namespace>NuGetUtils.Model</Namespace>
   <Namespace>NuGetUtils.Services</Namespace>
+  <Namespace>System</Namespace>
   <Namespace>System.Net.Http</Namespace>
   <Namespace>System.Text.Json</Namespace>
   <Namespace>System.Threading.Tasks</Namespace>

@@ -4,6 +4,7 @@
   <NuGetReference>OpenAI.Net.Client</NuGetReference>
   <Namespace>Microsoft.Extensions.DependencyInjection</Namespace>
   <Namespace>Microsoft.Extensions.Hosting</Namespace>
+  <Namespace>System</Namespace>
   <Namespace>System.Globalization</Namespace>
   <Namespace>OpenAI.GPT3.Extensions</Namespace>
   <Namespace>OpenAI.Net</Namespace>
